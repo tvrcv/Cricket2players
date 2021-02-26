@@ -32,7 +32,7 @@ body {
 
 .resetButton {
 	position : absolute;
-	left:30%;
+	left:28%;
 	top:85%;
 	color:#ffffff;
 	font-family:'Trebuchet MS';
@@ -44,7 +44,7 @@ body {
 	background: rgba(255, 17, 0, 0.5);
 	border: 2px solid rgba(255, 17, 0, 0.5);
 	padding: 0.5em;
-	width:38%;
+	width:39%;
 	height:20px;
 	z-index: 1000;
 }
