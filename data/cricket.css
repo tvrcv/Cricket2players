@@ -107,13 +107,14 @@ div.checkImageWrapper:active {
 	margin: 0 auto;
 }
 
+
 #checkGrid {
 	display: block;
 	width: 80%;
-	height: 70%;
+	height: 90%;
 	position:absolute;
 	padding-top:10px;
-	padding-bottom:0px;
+	padding-bottom:2px;
 	left: 10%;
 	top: 2%;
 	border-style: double;
